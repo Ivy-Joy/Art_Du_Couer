@@ -1,0 +1,28 @@
+.header{
+     font-size:280px
+     color:blue !important;
+     font-family:courier new;
+     text-align: center;
+     text-decoration:none !important;
+}
+.nav a{
+     color:white !important;
+}
+.nav a:hover{
+     background-color: #464866 !important;
+}
+body{
+     background:url(../ivyjoy.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+footer{
+     display: flex;
+     position: absolute;
+     justify-content: center;
+     padding:5px;
+     background-color: #45a1ff;
+     color:#fff;
+     bottom:0px;
+     width:100%;
+}
